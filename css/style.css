@@ -13,3 +13,9 @@
 .panda-cat-three{
     background-color: #0000FF;
 }
+.cursor{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
