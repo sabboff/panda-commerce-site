@@ -2,5 +2,14 @@
     background-color: #FCEAE8;
 }
 .panda-btn-bg{
-    background-color: #FF3786;
+    background-image: linear-gradient(to top,#fd2d80, #ff6ca7);
+}
+.panda-cat-one{
+    background-color: #FFA500;
+}
+.panda-cat-two{
+    background-color: #DA70D6;
+}
+.panda-cat-three{
+    background-color: #0000FF;
 }
